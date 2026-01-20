@@ -10,8 +10,8 @@ This project was developed as the **Final Capstone Project** for the **"Applied 
 ## 👥 The Team
 This work was a collaborative effort by:
 * [@Mayar-Hany](https://github.com/Mayar-hany-2005) (Lead Data Scientist)
-* [@AhmedEssam](https://github.com/AhmedEssam)
-* [@ToqaMohamed](https://github.com/ToqaMohamed)
+* [@AhmedEssam](https://github.com/Ahmed-Esso)
+* [@ToqaMohamed](https://github.com/Toqa10)
 * [@ZiadAbdeen](https://github.com/ZiadAbdeen)
 
 ## 📌 Project Overview
