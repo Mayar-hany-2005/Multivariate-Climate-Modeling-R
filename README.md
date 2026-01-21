@@ -12,7 +12,7 @@ This work was a collaborative effort by:
 * **[@Mayar-Hany](https://github.com/Mayar-hany-2005)** | [LinkedIn](https://www.linkedin.com/in/mayar-h-139a2a2a6) (Lead Data Scientist)
 * **[@Ahmed-Esso](https://github.com/Ahmed-Esso)** | [LinkedIn](https://www.linkedin.com/in/-ahmed-essam-/)
 * **[@Toqa10](https://github.com/Toqa10)** | [LinkedIn](https://www.linkedin.com/in/toqa-mohammed-mahfouz/)
-* **[@ZiadAbdeen](https://github.com/ZiadAbdeen)** | [LinkedIn](https://www.linkedin.com/in/ziad-abdeen-kamal-a138a0356/)
+* **[@ZiadAbdeen](https://github.com/ZiadDev123)** | [LinkedIn](https://www.linkedin.com/in/ziad-abdeen-kamal-a138a0356/)
 
 ## 📌 Project Overview
 A comprehensive study spanning nearly five years (January 2020 - May 2024), aimed at analyzing global climate dynamics. This project integrates traditional meteorological metrics with critical environmental indicators like **CO2 concentrations**, **PM2.5 levels**, and **Urbanization Indices** to provide a holistic view of human-climate interaction.
